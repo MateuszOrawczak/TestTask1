@@ -8,8 +8,6 @@
 		<title>LifeinMobile Review Task</title>
 		<link href="css/normalize.css" media="all" rel="stylesheet" type="text/css" />
 		<link href="css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css" />
-		<link href="css/font-awesome/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css" />
-        <link href="css/main.css" media="all" rel="stylesheet" type="text/css" />
 	</head>
 	<body style="padding-top: 15px;">
 		<?php
